@@ -14,6 +14,22 @@
 		78CB5CFA1D48E42E00C836D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78CB5CF81D48E42E00C836D7 /* LaunchScreen.storyboard */; };
 		78CB5D051D48E42E00C836D7 /* coreImageDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D041D48E42E00C836D7 /* coreImageDemoTests.swift */; };
 		78CB5D101D48E42E00C836D7 /* coreImageDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D0F1D48E42E00C836D7 /* coreImageDemoUITests.swift */; };
+		78CB5D201D48E4D300C836D7 /* GeometryAdjustmentFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D1D1D48E4D300C836D7 /* GeometryAdjustmentFilters.swift */; };
+		78CB5D211D48E4D300C836D7 /* GradientFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D1E1D48E4D300C836D7 /* GradientFilters.swift */; };
+		78CB5D241D48E50000C836D7 /* BlurFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D231D48E50000C836D7 /* BlurFilters.swift */; };
+		78CB5D2B1D48E50E00C836D7 /* ColorAdjustmentFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D251D48E50E00C836D7 /* ColorAdjustmentFilters.swift */; };
+		78CB5D2C1D48E50E00C836D7 /* ColorEffectFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D261D48E50E00C836D7 /* ColorEffectFilters.swift */; };
+		78CB5D2D1D48E50E00C836D7 /* CompositeOperationFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D271D48E50E00C836D7 /* CompositeOperationFilters.swift */; };
+		78CB5D2E1D48E50E00C836D7 /* DistortionEffectFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D281D48E50E00C836D7 /* DistortionEffectFilters.swift */; };
+		78CB5D2F1D48E50E00C836D7 /* GeneratorFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D291D48E50E00C836D7 /* GeneratorFilters.swift */; };
+		78CB5D301D48E50E00C836D7 /* HalftoneEffectFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D2A1D48E50E00C836D7 /* HalftoneEffectFilters.swift */; };
+		78CB5D371D48E6DB00C836D7 /* ProcessSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D311D48E6DB00C836D7 /* ProcessSelection.swift */; };
+		78CB5D381D48E6DB00C836D7 /* ReductionFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D321D48E6DB00C836D7 /* ReductionFilters.swift */; };
+		78CB5D391D48E6DB00C836D7 /* SharpenFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D331D48E6DB00C836D7 /* SharpenFilters.swift */; };
+		78CB5D3A1D48E6DB00C836D7 /* StylizeFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D341D48E6DB00C836D7 /* StylizeFilters.swift */; };
+		78CB5D3B1D48E6DB00C836D7 /* TileEffectFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D351D48E6DB00C836D7 /* TileEffectFilters.swift */; };
+		78CB5D3C1D48E6DB00C836D7 /* TransitionFilters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D361D48E6DB00C836D7 /* TransitionFilters.swift */; };
+		78CB5D401D48E94400C836D7 /* TableData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78CB5D3F1D48E94400C836D7 /* TableData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,22 @@
 		78CB5D0B1D48E42E00C836D7 /* coreImageDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = coreImageDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		78CB5D0F1D48E42E00C836D7 /* coreImageDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coreImageDemoUITests.swift; sourceTree = "<group>"; };
 		78CB5D111D48E42E00C836D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		78CB5D1D1D48E4D300C836D7 /* GeometryAdjustmentFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeometryAdjustmentFilters.swift; sourceTree = "<group>"; };
+		78CB5D1E1D48E4D300C836D7 /* GradientFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientFilters.swift; sourceTree = "<group>"; };
+		78CB5D231D48E50000C836D7 /* BlurFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlurFilters.swift; sourceTree = "<group>"; };
+		78CB5D251D48E50E00C836D7 /* ColorAdjustmentFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorAdjustmentFilters.swift; sourceTree = "<group>"; };
+		78CB5D261D48E50E00C836D7 /* ColorEffectFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorEffectFilters.swift; sourceTree = "<group>"; };
+		78CB5D271D48E50E00C836D7 /* CompositeOperationFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompositeOperationFilters.swift; sourceTree = "<group>"; };
+		78CB5D281D48E50E00C836D7 /* DistortionEffectFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DistortionEffectFilters.swift; sourceTree = "<group>"; };
+		78CB5D291D48E50E00C836D7 /* GeneratorFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneratorFilters.swift; sourceTree = "<group>"; };
+		78CB5D2A1D48E50E00C836D7 /* HalftoneEffectFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HalftoneEffectFilters.swift; sourceTree = "<group>"; };
+		78CB5D311D48E6DB00C836D7 /* ProcessSelection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProcessSelection.swift; sourceTree = "<group>"; };
+		78CB5D321D48E6DB00C836D7 /* ReductionFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReductionFilters.swift; sourceTree = "<group>"; };
+		78CB5D331D48E6DB00C836D7 /* SharpenFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SharpenFilters.swift; sourceTree = "<group>"; };
+		78CB5D341D48E6DB00C836D7 /* StylizeFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StylizeFilters.swift; sourceTree = "<group>"; };
+		78CB5D351D48E6DB00C836D7 /* TileEffectFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TileEffectFilters.swift; sourceTree = "<group>"; };
+		78CB5D361D48E6DB00C836D7 /* TransitionFilters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionFilters.swift; sourceTree = "<group>"; };
+		78CB5D3F1D48E94400C836D7 /* TableData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +129,22 @@
 		78CB5CEE1D48E42E00C836D7 /* coreImageDemo */ = {
 			isa = PBXGroup;
 			children = (
+				78CB5D3F1D48E94400C836D7 /* TableData.swift */,
+				78CB5D311D48E6DB00C836D7 /* ProcessSelection.swift */,
+				78CB5D321D48E6DB00C836D7 /* ReductionFilters.swift */,
+				78CB5D331D48E6DB00C836D7 /* SharpenFilters.swift */,
+				78CB5D341D48E6DB00C836D7 /* StylizeFilters.swift */,
+				78CB5D351D48E6DB00C836D7 /* TileEffectFilters.swift */,
+				78CB5D361D48E6DB00C836D7 /* TransitionFilters.swift */,
+				78CB5D1D1D48E4D300C836D7 /* GeometryAdjustmentFilters.swift */,
+				78CB5D251D48E50E00C836D7 /* ColorAdjustmentFilters.swift */,
+				78CB5D261D48E50E00C836D7 /* ColorEffectFilters.swift */,
+				78CB5D271D48E50E00C836D7 /* CompositeOperationFilters.swift */,
+				78CB5D281D48E50E00C836D7 /* DistortionEffectFilters.swift */,
+				78CB5D291D48E50E00C836D7 /* GeneratorFilters.swift */,
+				78CB5D2A1D48E50E00C836D7 /* HalftoneEffectFilters.swift */,
+				78CB5D1E1D48E4D300C836D7 /* GradientFilters.swift */,
+				78CB5D231D48E50000C836D7 /* BlurFilters.swift */,
 				78CB5CEF1D48E42E00C836D7 /* AppDelegate.swift */,
 				78CB5CF11D48E42E00C836D7 /* ViewController.swift */,
 				78CB5CF31D48E42E00C836D7 /* Main.storyboard */,
@@ -256,8 +304,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				78CB5D2C1D48E50E00C836D7 /* ColorEffectFilters.swift in Sources */,
+				78CB5D241D48E50000C836D7 /* BlurFilters.swift in Sources */,
+				78CB5D201D48E4D300C836D7 /* GeometryAdjustmentFilters.swift in Sources */,
+				78CB5D391D48E6DB00C836D7 /* SharpenFilters.swift in Sources */,
+				78CB5D2E1D48E50E00C836D7 /* DistortionEffectFilters.swift in Sources */,
 				78CB5CF21D48E42E00C836D7 /* ViewController.swift in Sources */,
+				78CB5D371D48E6DB00C836D7 /* ProcessSelection.swift in Sources */,
+				78CB5D2B1D48E50E00C836D7 /* ColorAdjustmentFilters.swift in Sources */,
+				78CB5D3C1D48E6DB00C836D7 /* TransitionFilters.swift in Sources */,
 				78CB5CF01D48E42E00C836D7 /* AppDelegate.swift in Sources */,
+				78CB5D211D48E4D300C836D7 /* GradientFilters.swift in Sources */,
+				78CB5D3B1D48E6DB00C836D7 /* TileEffectFilters.swift in Sources */,
+				78CB5D401D48E94400C836D7 /* TableData.swift in Sources */,
+				78CB5D301D48E50E00C836D7 /* HalftoneEffectFilters.swift in Sources */,
+				78CB5D3A1D48E6DB00C836D7 /* StylizeFilters.swift in Sources */,
+				78CB5D2F1D48E50E00C836D7 /* GeneratorFilters.swift in Sources */,
+				78CB5D2D1D48E50E00C836D7 /* CompositeOperationFilters.swift in Sources */,
+				78CB5D381D48E6DB00C836D7 /* ReductionFilters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -416,6 +480,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.nafisa.coreImageDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Release;
 		};
@@ -484,6 +549,7 @@
 				78CB5D161D48E42E00C836D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		78CB5D171D48E42E00C836D7 /* Build configuration list for PBXNativeTarget "coreImageDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +558,7 @@
 				78CB5D191D48E42E00C836D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		78CB5D1A1D48E42E00C836D7 /* Build configuration list for PBXNativeTarget "coreImageDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +567,7 @@
 				78CB5D1C1D48E42E00C836D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
